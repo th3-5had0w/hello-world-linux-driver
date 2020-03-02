@@ -1,0 +1,1 @@
+cmd_/home/th3_5had0w/Desktop/hello-world-linux-driver/ofd.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/th3_5had0w/Desktop/hello-world-linux-driver/ofd.ko /home/th3_5had0w/Desktop/hello-world-linux-driver/ofd.o /home/th3_5had0w/Desktop/hello-world-linux-driver/ofd.mod.o ;  true
